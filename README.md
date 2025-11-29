@@ -28,7 +28,7 @@ This project involves:
 Objective
 Develop SQL-based analytics to deliver detailed insights into:
 
-Customer Behavior
-Product Performance
-Sales Trends
+1.**Customer Behavior**
+2.**Product Performance**
+
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
