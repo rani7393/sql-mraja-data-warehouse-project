@@ -25,7 +25,8 @@ This project involves:
 ---
 ## BI: Analytics & Reporting (Data Analysis)
 
-Objective
+Objective:
+
 Develop SQL-based analytics to deliver detailed insights into:
 
 1.**Customer Behavior**
